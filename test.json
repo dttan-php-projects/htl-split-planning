@@ -1,0 +1,2612 @@
+{
+   "id" : "J211308-J211319_Blk",
+   "name" : "J211308-J211319_Blk",
+   "contact" : "",
+   "phone" : "",
+   "client" : "",
+   "notes" : "",
+   "default-bleed" : "0mm",
+   "units" : "mm",
+   "run-length" : 2816,
+   "press-minutes" : 3333.8665,
+   "plate-cost" : 0.0,
+   "stock-cost" : 269.9512939453125,
+   "press-cost" : 16669.33203125,
+   "die-cost" : 0.0,
+   "total-cost" : 16939.283203125,
+   "waste" : 0.20645183324813843,
+   "sheet-usage" : 0.826412558555603,
+   "underrun" : 0.0,
+   "overrun" : 0.05640186369419098,
+   "layout-count" : 12,
+   "layouts" : [ {
+      "index" : 1,
+      "name" : "J211308",
+      "workstyle" : "FlatWork",
+      "run-length" : 39,
+      "press-minutes" : 271.3,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 3.7386720180511475,
+      "press-cost" : 1356.5,
+      "die-cost" : 0.0,
+      "total-cost" : 1360.2386474609375,
+      "waste" : 0.2628448009490967,
+      "sheet-usage" : 0.8405240178108215,
+      "underrun" : 0.0,
+      "overrun" : 0.22641509771347046,
+      "product-count" : 15,
+      "random" : "8AA1E7376BD04E5C975321CBC86EA565",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "6485.3888mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.840524
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 2,
+      "name" : "J211309",
+      "workstyle" : "FlatWork",
+      "run-length" : 39,
+      "press-minutes" : 271.3,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 3.7386720180511475,
+      "press-cost" : 1356.5,
+      "die-cost" : 0.0,
+      "total-cost" : 1360.2386474609375,
+      "waste" : 0.2678600251674652,
+      "sheet-usage" : 0.8499385714530945,
+      "underrun" : 0.0,
+      "overrun" : 0.16417910158634186,
+      "product-count" : 7,
+      "random" : "8A67C0FF0DC24BCF8DBDBD194019B371",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "5383.1023mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.8499386
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 3,
+      "name" : "J211310",
+      "workstyle" : "FlatWork",
+      "run-length" : 39,
+      "press-minutes" : 271.3,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 3.7386720180511475,
+      "press-cost" : 1356.5,
+      "die-cost" : 0.0,
+      "total-cost" : 1360.2386474609375,
+      "waste" : 0.2818983197212219,
+      "sheet-usage" : 0.8117647767066956,
+      "underrun" : 0.0,
+      "overrun" : 0.15189872682094574,
+      "product-count" : 7,
+      "random" : "E110B54BF9634A83B081C5EA42026A16",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4792.4052mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.8117648
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Dieline",
+            "separation" : true,
+            "type" : "cut"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 4,
+      "name" : "J211311",
+      "workstyle" : "FlatWork",
+      "run-length" : 59,
+      "press-minutes" : 271.96667,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 5.655940055847168,
+      "press-cost" : 1359.8333740234375,
+      "die-cost" : 0.0,
+      "total-cost" : 1365.4892578125,
+      "waste" : 0.16512124240398407,
+      "sheet-usage" : 0.8604673743247986,
+      "underrun" : 0.0,
+      "overrun" : 0.0535714291036129,
+      "product-count" : 5,
+      "random" : "511803A3273A4989ACC8BB5FCEC4916B",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4995.5576mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.8604674
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 5,
+      "name" : "J211312",
+      "workstyle" : "FlatWork",
+      "run-length" : 1294,
+      "press-minutes" : 313.13333,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 124.04722595214844,
+      "press-cost" : 1565.6666259765625,
+      "die-cost" : 0.0,
+      "total-cost" : 1689.7138671875,
+      "waste" : 0.1960100531578064,
+      "sheet-usage" : 0.849552571773529,
+      "underrun" : 0.0,
+      "overrun" : 0.05132024362683296,
+      "product-count" : 5,
+      "random" : "F84C487D74DA48ED8306A61C4214CA36",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4614.9221mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.8495526
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 6,
+      "name" : "J211313",
+      "workstyle" : "FlatWork",
+      "run-length" : 98,
+      "press-minutes" : 273.26666,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 9.394612312316895,
+      "press-cost" : 1366.3333740234375,
+      "die-cost" : 0.0,
+      "total-cost" : 1375.72802734375,
+      "waste" : 0.3311404585838318,
+      "sheet-usage" : 0.7403519749641418,
+      "underrun" : 0.0,
+      "overrun" : 0.11522048711776733,
+      "product-count" : 5,
+      "random" : "5BBFF06DD7F44379BE0A92E6DE3F91E2",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4504.4596mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.740352
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 7,
+      "name" : "J211314",
+      "workstyle" : "FlatWork",
+      "run-length" : 59,
+      "press-minutes" : 271.96667,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 5.655940055847168,
+      "press-cost" : 1359.8333740234375,
+      "die-cost" : 0.0,
+      "total-cost" : 1365.4892578125,
+      "waste" : 0.17223915457725525,
+      "sheet-usage" : 0.8277608156204224,
+      "underrun" : 0.0,
+      "overrun" : 0.0,
+      "product-count" : 4,
+      "random" : "E7A61B89E8E64CAB8EC3797992002208",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4903.0589mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.8277608
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Dieline",
+            "separation" : true,
+            "type" : "cut"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 8,
+      "name" : "J211315",
+      "workstyle" : "FlatWork",
+      "run-length" : 59,
+      "press-minutes" : 271.96667,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 5.655940055847168,
+      "press-cost" : 1359.8333740234375,
+      "die-cost" : 0.0,
+      "total-cost" : 1365.4892578125,
+      "waste" : 0.23099634051322937,
+      "sheet-usage" : 0.8223157525062561,
+      "underrun" : 0.0,
+      "overrun" : 0.05776892602443695,
+      "product-count" : 4,
+      "random" : "86B85BCE8E4D4B679FA3D2A19276DE4D",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "5265.3868mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.82231575
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 9,
+      "name" : "J211316",
+      "workstyle" : "FlatWork",
+      "run-length" : 156,
+      "press-minutes" : 275.2,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 14.95468807220459,
+      "press-cost" : 1376.0,
+      "die-cost" : 0.0,
+      "total-cost" : 1390.9547119140625,
+      "waste" : 0.24162626266479492,
+      "sheet-usage" : 0.8827787041664124,
+      "underrun" : 0.0,
+      "overrun" : 0.14146341383457184,
+      "product-count" : 3,
+      "random" : "5580FB3A1021466D9DBA90D04D4C7EE6",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4670.9218mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.8827787
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 10,
+      "name" : "J211317",
+      "workstyle" : "FlatWork",
+      "run-length" : 234,
+      "press-minutes" : 277.8,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 22.432031631469727,
+      "press-cost" : 1389.0,
+      "die-cost" : 0.0,
+      "total-cost" : 1411.4320068359375,
+      "waste" : 0.2570268213748932,
+      "sheet-usage" : 0.7881296277046204,
+      "underrun" : 0.0,
+      "overrun" : 0.057866185903549194,
+      "product-count" : 3,
+      "random" : "27817ABE5C9E474F87FD30B049706D2B",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "3922.4362mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.7881296
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 11,
+      "name" : "J211318",
+      "workstyle" : "FlatWork",
+      "run-length" : 400,
+      "press-minutes" : 283.33334,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 38.34535598754883,
+      "press-cost" : 1416.6666259765625,
+      "die-cost" : 0.0,
+      "total-cost" : 1455.011962890625,
+      "waste" : 0.16515477001667023,
+      "sheet-usage" : 0.8365182876586914,
+      "underrun" : 0.0,
+      "overrun" : 0.0020040080416947603,
+      "product-count" : 1,
+      "random" : "27963271A9FA4D4AABF2AE3A9CC55B5B",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4062.4397mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.8365183
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 12,
+      "name" : "J211319",
+      "workstyle" : "FlatWork",
+      "run-length" : 340,
+      "press-minutes" : 281.33334,
+      "plates" : 9,
+      "plate-cost" : 0.0,
+      "stock-cost" : 32.59355163574219,
+      "press-cost" : 1406.6666259765625,
+      "die-cost" : 0.0,
+      "total-cost" : 1439.2601318359375,
+      "waste" : 0.19457387924194336,
+      "sheet-usage" : 0.8068499565124512,
+      "underrun" : 0.0,
+      "overrun" : 0.0017678255680948496,
+      "product-count" : 1,
+      "random" : "F940F70E356243549EA14067BDD6F599",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "4012.4373mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.80684996
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "JL 330x800_Black",
+            "id" : "69333e63-eb99-4bbc-8c2e-5d6bf776a4b4"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "800 x 330mm Long",
+            "id" : "4b8740f2-d566-4ec7-8785-57ec81a8482f",
+            "width" : "800mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE BACKER",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "HPI-White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   } ],
+   "products" : [ {
+      "name" : "JL-A10-BLACK-25",
+      "index" : 1,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "JL-A10-BLACK-25_ATE575764.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/JL-A10-BLACK-25_ATE575764.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "250.765mm",
+      "height" : "272.863mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 7,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "JL-A11-BLACK-25",
+      "index" : 2,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "JL-A11-BLACK-25_ATE575861.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/JL-A11-BLACK-25_ATE575861.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "202.9001mm",
+      "height" : "266.0121mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "JL-A12-BLACK-25",
+      "index" : 3,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "JL-A12-BLACK-25_ATE575865.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/JL-A12-BLACK-25_ATE575865.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "243.0762mm",
+      "height" : "269.4376mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 7,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "JL-A18-BLACK-25",
+      "index" : 4,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "JL-A18-BLACK-25_ATE575876.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/JL-A18-BLACK-25_ATE575876.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "251.1206mm",
+      "height" : "272.8595mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 4,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "JL-A19-BLACK-25",
+      "index" : 5,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "JL-A19-BLACK-25_ATE575878.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/JL-A19-BLACK-25_ATE575878.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "249.0766mm",
+      "height" : "269.4376mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "JL-A15-BLACK-10",
+      "index" : 6,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "JL-A15-BLACK-10_ATE576888.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/JL-A15-BLACK-10_ATE576888.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "99.3556mm",
+      "height" : "116.0043mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "JL-A17-BLACK-10",
+      "index" : 7,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "JL-A17-BLACK-10_ATE576894.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/JL-A17-BLACK-10_ATE576894.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "95.8585mm",
+      "height" : "116.0156mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-0-BK-25-A",
+      "index" : 8,
+      "ordered" : 1996,
+      "description" : "#N/A",
+      "die-source" : "J-0-BK-25-A_ATE645817.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-0-BK-25-A_ATE645817.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141.0003mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 5,
+      "total" : 2000,
+      "overrun" : 4,
+      "layouts" : [ {
+         "index" : 11,
+         "placed" : 5
+      } ]
+   }, {
+      "name" : "J-1-BK-25-A",
+      "index" : 9,
+      "ordered" : 2574,
+      "description" : "#N/A",
+      "die-source" : "J-1-BK-25-A_ATE645823.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-1-BK-25-A_ATE645823.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "89.9996mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 2,
+      "total" : 2588,
+      "overrun" : 14,
+      "layouts" : [ {
+         "index" : 5,
+         "placed" : 2
+      } ]
+   }, {
+      "name" : "J-2-BK-25-A",
+      "index" : 10,
+      "ordered" : 1697,
+      "description" : "#N/A",
+      "die-source" : "J-2-BK-25-A_ATE645825.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-2-BK-25-A_ATE645825.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "136.0001mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 5,
+      "total" : 1700,
+      "overrun" : 3,
+      "layouts" : [ {
+         "index" : 12,
+         "placed" : 5
+      } ]
+   }, {
+      "name" : "J-3-BK-25-A",
+      "index" : 11,
+      "ordered" : 1112,
+      "description" : "#N/A",
+      "die-source" : "J-3-BK-25-A_ATE645826.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-3-BK-25-A_ATE645826.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "125.0001mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 1294,
+      "overrun" : 182,
+      "layouts" : [ {
+         "index" : 5,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-4-BK-25-A",
+      "index" : 12,
+      "ordered" : 1170,
+      "description" : "#N/A",
+      "die-source" : "J-4-BK-25-A_ATE645829.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-4-BK-25-A_ATE645829.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "140.0002mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 1294,
+      "overrun" : 124,
+      "layouts" : [ {
+         "index" : 5,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-5-BK-25-A",
+      "index" : 13,
+      "ordered" : 1235,
+      "description" : "#N/A",
+      "die-source" : "J-5-BK-25-A_ATE645831.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-5-BK-25-A_ATE645831.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141.0003mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 1294,
+      "overrun" : 59,
+      "layouts" : [ {
+         "index" : 5,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-6-BK-25-A",
+      "index" : 14,
+      "ordered" : 137,
+      "description" : "#N/A",
+      "die-source" : "J-6-BK-25-A_ATE645834.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-6-BK-25-A_ATE645834.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141.0003mm",
+      "height" : "266.9995mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 156,
+      "overrun" : 19,
+      "layouts" : [ {
+         "index" : 9,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-7-BK-25-A",
+      "index" : 15,
+      "ordered" : 1294,
+      "description" : "#N/A",
+      "die-source" : "J-7-BK-25-A_ATE645835.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-7-BK-25-A_ATE645835.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "130mm",
+      "height" : "266.9995mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 1294,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 5,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-8-BK-25-A",
+      "index" : 16,
+      "ordered" : 644,
+      "description" : "#N/A",
+      "die-source" : "J-8-BK-25-A_ATE645836.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-8-BK-25-A_ATE645836.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "144mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 3,
+      "total" : 702,
+      "overrun" : 58,
+      "layouts" : [ {
+         "index" : 10,
+         "placed" : 3
+      } ]
+   }, {
+      "name" : "J-9-BK-25-A",
+      "index" : 17,
+      "ordered" : 371,
+      "description" : "#N/A",
+      "die-source" : "J-9-BK-25-A_ATE645837.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-9-BK-25-A_ATE645837.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 3,
+      "total" : 468,
+      "overrun" : 97,
+      "layouts" : [ {
+         "index" : 9,
+         "placed" : 3
+      } ]
+   }, {
+      "name" : "J-0-BK-20-A",
+      "index" : 18,
+      "ordered" : 228,
+      "description" : "#N/A",
+      "die-source" : "J-0-BK-20-A_ATE646285.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-0-BK-20-A_ATE646285.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "113.9998mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 234,
+      "overrun" : 6,
+      "layouts" : [ {
+         "index" : 10,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-1-BK-20-A",
+      "index" : 19,
+      "ordered" : 98,
+      "description" : "#N/A",
+      "die-source" : "J-1-BK-20-A_ATE646337.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-1-BK-20-A_ATE646337.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "73mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 2,
+      "total" : 118,
+      "overrun" : 20,
+      "layouts" : [ {
+         "index" : 4,
+         "placed" : 2
+      } ]
+   }, {
+      "name" : "J-3-BK-20-A",
+      "index" : 20,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-3-BK-20-A_ATE646346.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-3-BK-20-A_ATE646346.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "102.0001mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-4-BK-20-A",
+      "index" : 21,
+      "ordered" : 117,
+      "description" : "#N/A",
+      "die-source" : "J-4-BK-20-A_ATE646351.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-4-BK-20-A_ATE646351.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "112.9997mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 2,
+      "total" : 118,
+      "overrun" : 1,
+      "layouts" : [ {
+         "index" : 4,
+         "placed" : 2
+      } ]
+   }, {
+      "name" : "J-5-BK-20-A",
+      "index" : 22,
+      "ordered" : 150,
+      "description" : "#N/A",
+      "die-source" : "J-5-BK-20-A_ATE646353.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-5-BK-20-A_ATE646353.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "114.0001mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 3,
+      "total" : 177,
+      "overrun" : 27,
+      "layouts" : [ {
+         "index" : 8,
+         "placed" : 3
+      } ]
+   }, {
+      "name" : "J-6-BK-20-A",
+      "index" : 23,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-6-BK-20-A_ATE646354.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-6-BK-20-A_ATE646354.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "113.9998mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-7-BK-20-A",
+      "index" : 24,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-7-BK-20-A_ATE646365.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-7-BK-20-A_ATE646365.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "105.0001mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-8-BK-20-A",
+      "index" : 25,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-8-BK-20-A_ATE646373.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-8-BK-20-A_ATE646373.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "116.9998mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-9-BK-20-A",
+      "index" : 26,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-9-BK-20-A_ATE646376.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-9-BK-20-A_ATE646376.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "114.0001mm",
+      "height" : "215.9998mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-0-BK-10-A",
+      "index" : 27,
+      "ordered" : 176,
+      "description" : "#N/A",
+      "die-source" : "J-0-BK-10-A_ATE646667.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-0-BK-10-A_ATE646667.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "59.0003mm",
+      "height" : "112.9997mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 3,
+      "total" : 177,
+      "overrun" : 1,
+      "layouts" : [ {
+         "index" : 8,
+         "placed" : 3
+      } ]
+   }, {
+      "name" : "J-2-BK-10-A",
+      "index" : 28,
+      "ordered" : 137,
+      "description" : "#N/A",
+      "die-source" : "J-2-BK-10-A_ATE646676.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-2-BK-10-A_ATE646676.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "58.0002mm",
+      "height" : "112.9997mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 4,
+      "total" : 156,
+      "overrun" : 19,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 4
+      } ]
+   }, {
+      "name" : "J-3-BK-10-A",
+      "index" : 29,
+      "ordered" : 351,
+      "description" : "#N/A",
+      "die-source" : "J-3-BK-10-A_ATE646685.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-3-BK-10-A_ATE646685.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "52.9999mm",
+      "height" : "113mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 4,
+      "total" : 392,
+      "overrun" : 41,
+      "layouts" : [ {
+         "index" : 6,
+         "placed" : 4
+      } ]
+   }, {
+      "name" : "J-8-BK-10-A",
+      "index" : 30,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-8-BK-10-A_ATE646696.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-8-BK-10-A_ATE646696.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "60.0004mm",
+      "height" : "113mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-0-BK-8-A",
+      "index" : 31,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "J-0-BK-8-A_ATE646834.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-0-BK-8-A_ATE646834.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "49.0001mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-1-BK-8-A",
+      "index" : 32,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-1-BK-8-A_ATE646838.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-1-BK-8-A_ATE646838.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "31.9998mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-2-BK-8-A",
+      "index" : 33,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "J-2-BK-8-A_ATE646841.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-2-BK-8-A_ATE646841.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "46.9999mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-3-BK-8-A",
+      "index" : 34,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-3-BK-8-A_ATE646843.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-3-BK-8-A_ATE646843.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "44.0002mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-4-BK-8-A",
+      "index" : 35,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-4-BK-8-A_ATE646845.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-4-BK-8-A_ATE646845.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "49.0005mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-5-BK-8-A",
+      "index" : 36,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-5-BK-8-A_ATE646847.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-5-BK-8-A_ATE646847.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "49.0005mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-6-BK-8-A",
+      "index" : 37,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-6-BK-8-A_ATE646857.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-6-BK-8-A_ATE646857.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "49.0001mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-7-BK-8-A",
+      "index" : 38,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-7-BK-8-A_ATE646860.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-7-BK-8-A_ATE646860.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "45mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 3,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-8-BK-8-A",
+      "index" : 39,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-8-BK-8-A_ATE646864.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-8-BK-8-A_ATE646864.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "49.0005mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-9-BK-8-A",
+      "index" : 40,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-9-BK-8-A_ATE646869.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-9-BK-8-A_ATE646869.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "49.0001mm",
+      "height" : "93mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-0-BK-25-A",
+      "index" : 41,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "N-0-BK-25-A_ATE646028.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-0-BK-25-A_ATE646028.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141.0003mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 7,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-1-BK-25-A",
+      "index" : 42,
+      "ordered" : 312,
+      "description" : "#N/A",
+      "die-source" : "N-1-BK-25-A_ATE645992.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-1-BK-25-A_ATE645992.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "89.9996mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 2,
+      "total" : 312,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 9,
+         "placed" : 2
+      } ]
+   }, {
+      "name" : "N-2-BK-25-A",
+      "index" : 43,
+      "ordered" : 117,
+      "description" : "#N/A",
+      "die-source" : "N-2-BK-25-A_ATE646034.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-2-BK-25-A_ATE646034.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "136.0001mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 2,
+      "total" : 118,
+      "overrun" : 1,
+      "layouts" : [ {
+         "index" : 8,
+         "placed" : 2
+      } ]
+   }, {
+      "name" : "N-3-BK-25-A",
+      "index" : 44,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "N-3-BK-25-A_ATE646043.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-3-BK-25-A_ATE646043.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "125.0001mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 3,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-4-BK-25-A",
+      "index" : 45,
+      "ordered" : 234,
+      "description" : "#N/A",
+      "die-source" : "N-4-BK-25-A_ATE646046.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-4-BK-25-A_ATE646046.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "140.0002mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 234,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 10,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-5-BK-25-A",
+      "index" : 46,
+      "ordered" : 98,
+      "description" : "#N/A",
+      "die-source" : "N-5-BK-25-A_ATE646052.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-5-BK-25-A_ATE646052.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141.0003mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 98,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 6,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-6-BK-25-A",
+      "index" : 47,
+      "ordered" : 78,
+      "description" : "#N/A",
+      "die-source" : "N-6-BK-25-A_ATE646057.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-6-BK-25-A_ATE646057.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141.0003mm",
+      "height" : "266.9995mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 98,
+      "overrun" : 20,
+      "layouts" : [ {
+         "index" : 6,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-7-BK-25-A",
+      "index" : 48,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "N-7-BK-25-A_ATE646069.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-7-BK-25-A_ATE646069.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "130mm",
+      "height" : "266.9995mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 7,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-8-BK-25-A",
+      "index" : 49,
+      "ordered" : 98,
+      "description" : "#N/A",
+      "die-source" : "N-8-BK-25-A_ATE646075.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-8-BK-25-A_ATE646075.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "144mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 98,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 6,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "N-9-BK-25-A",
+      "index" : 50,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "N-9-BK-25-A_ATE646080.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/N-9-BK-25-A_ATE646080.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "141mm",
+      "height" : "266.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-0-BK-25-S",
+      "index" : 51,
+      "ordered" : 78,
+      "description" : "#N/A",
+      "die-source" : "J-0-BK-25-S_ATE653769.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-0-BK-25-S_ATE653769.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "108.282mm",
+      "height" : "266.9988mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 98,
+      "overrun" : 20,
+      "layouts" : [ {
+         "index" : 6,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-1-BK-25-S",
+      "index" : 52,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "J-1-BK-25-S_ATE653770.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-1-BK-25-S_ATE653770.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "69.506mm",
+      "height" : "266.9946mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 8,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-2-BK-25-S",
+      "index" : 53,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "J-2-BK-25-S_ATE653772.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-2-BK-25-S_ATE653772.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "104.9563mm",
+      "height" : "267.0418mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 4,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-3-BK-25-S",
+      "index" : 54,
+      "ordered" : 59,
+      "description" : "#N/A",
+      "die-source" : "J-3-BK-25-S_ATE653774.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-3-BK-25-S_ATE653774.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "96.2237mm",
+      "height" : "267.009mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 59,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 4,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-4-BK-25-S",
+      "index" : 55,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-4-BK-25-S_ATE653775.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-4-BK-25-S_ATE653775.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "107.9549mm",
+      "height" : "266.9946mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 3,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-5-BK-25-S",
+      "index" : 56,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-5-BK-25-S_ATE653776.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-5-BK-25-S_ATE653776.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "108.1091mm",
+      "height" : "266.9946mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 3,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-6-BK-25-S",
+      "index" : 57,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "J-6-BK-25-S_ATE653777.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-6-BK-25-S_ATE653777.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "108.5398mm",
+      "height" : "267.002mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 3,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-7-BK-25-S",
+      "index" : 58,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-7-BK-25-S_ATE653806.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-7-BK-25-S_ATE653806.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "99.3256mm",
+      "height" : "267.0048mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-8-BK-25-S",
+      "index" : 59,
+      "ordered" : 30,
+      "description" : "#N/A",
+      "die-source" : "J-8-BK-25-S_ATE653807.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-8-BK-25-S_ATE653807.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "110.351mm",
+      "height" : "266.9992mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 9,
+      "layouts" : [ {
+         "index" : 3,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "J-9-BK-25-S",
+      "index" : 60,
+      "ordered" : 39,
+      "description" : "#N/A",
+      "die-source" : "J-9-BK-25-S_ATE653768.ai",
+      "die-path" : "D:/_FAPL ORDER/ARTWORK/J-9-BK-25-S_ATE653768.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "108.5398mm",
+      "height" : "267.0119mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 39,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 3,
+         "placed" : 1
+      } ]
+   } ]
+}

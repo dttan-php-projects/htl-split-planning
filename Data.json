@@ -1,0 +1,822 @@
+{
+   "id" : "VN TEST 28-11-2018",
+   "name" : "VN TEST 28-11-2018",
+   "contact" : "",
+   "phone" : "",    
+   "client" : "",
+   "notes" : "",
+   "default-bleed" : "0mm",
+   "units" : "mm",
+   "run-length" : 498285,
+   "press-minutes" : 17209.5,
+   "plate-cost" : 0.0,
+   "stock-cost" : 43289.1015625,
+   "press-cost" : 86047.5,
+   "die-cost" : 0.0,
+   "total-cost" : 129336.6015625,
+   "waste" : 0.41548091173171997,
+   "sheet-usage" : 0.6444954872131348,
+   "underrun" : 0.0,
+   "overrun" : 0.1287233680486679,
+   "layout-count" : 2,
+   "layouts" : [ {
+      "index" : 1,
+      "name" : "191718",
+      "workstyle" : "FlatWork",
+      "run-length" : 220320,
+      "press-minutes" : 7644.0,
+      "plates" : 10,
+      "plate-cost" : 0.0,
+      "stock-cost" : 19140.5625,
+      "press-cost" : 38220.0,
+      "die-cost" : 0.0,
+      "total-cost" : 57360.5625,
+      "waste" : 0.42121320962905884,
+      "sheet-usage" : 0.6356768012046814,
+      "underrun" : 0.0,
+      "overrun" : 0.1353732943534851,
+      "product-count" : 13,
+      "random" : "4592D0A9E40E485BB9629CE0F0B87FC4",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "9710.8491mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.6356768
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "HD Sakurai",
+            "id" : "2b293204-a169-43e8-9020-7ba3058d9c38"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "725 x 330mm Long",
+            "id" : "911d3fcf-3830-41a2-8fff-2c667ce9f952",
+            "width" : "725mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "FAPL BLACK OUTLINE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   }, {
+      "index" : 2,
+      "name" : "191721",
+      "workstyle" : "FlatWork",
+      "run-length" : 277965,
+      "press-minutes" : 9565.5,
+      "plates" : 10,
+      "plate-cost" : 0.0,
+      "stock-cost" : 24148.541015625,
+      "press-cost" : 47827.5,
+      "die-cost" : 0.0,
+      "total-cost" : 71976.0390625,
+      "waste" : 0.4109373688697815,
+      "sheet-usage" : 0.6533141732215881,
+      "underrun" : 0.0,
+      "overrun" : 0.12264298647642136,
+      "product-count" : 12,
+      "random" : "BCE05FBA89B74FDAA206DADD931A6CF6",
+      "tool-stats" : {
+         "categories" : [ {
+            "name" : "Cut",
+            "length" : "9030.9306mm"
+         }, {
+            "name" : "Crease",
+            "length" : "0mm"
+         } ]
+      },
+      "priority-stats" : [ {
+         "priority" : 1,
+         "sheet-usage" : 0.6533142
+      } ],
+      "surfaces" : [ {
+         "side" : "Front",
+         "press" : {
+            "name" : "HD Sakurai",
+            "id" : "2b293204-a169-43e8-9020-7ba3058d9c38"
+         },
+         "stock" : {
+            "name" : "HD",
+            "id" : "ae10e690-42d4-11e3-aa6e-0800200c9a66"
+         },
+         "grade" : {
+            "name" : "240 gsm",
+            "id" : "3ac9b894-fc6f-4a72-9e4b-00243bfd2cff",
+            "caliper" : "0.4mm",
+            "weight" : "240 gsm"
+         },
+         "sheet" : {
+            "name" : "725 x 330mm Long",
+            "id" : "911d3fcf-3830-41a2-8fff-2c667ce9f952",
+            "width" : "725mm",
+            "height" : "330mm"
+         },
+         "inks" : [ {
+            "name" : "Black",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Cyan",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Magenta",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "Yellow",
+            "separation" : false,
+            "type" : "normal"
+         }, {
+            "name" : "FAPL BLACK OUTLINE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "ADHESIVE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "CLEAR",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "MDB",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "WHITE",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "White",
+            "separation" : true,
+            "type" : "normal"
+         }, {
+            "name" : "Cut2mm",
+            "separation" : true,
+            "type" : "cut"
+         } ]
+      } ]
+   } ],
+   "products" : [ {
+      "name" : "1NA1W110",
+      "index" : 1,
+      "ordered" : 277965,
+      "description" : "#0 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_0.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_0.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "152.6735mm",
+      "height" : "237.9835mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1NA1W111",
+      "index" : 2,
+      "ordered" : 373155,
+      "description" : "#1 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_1.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_1.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "74.9004mm",
+      "height" : "234mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 2,
+      "total" : 440640,
+      "overrun" : 67485,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 2
+      } ]
+   }, {
+      "name" : "1NA1W112",
+      "index" : 3,
+      "ordered" : 256620,
+      "description" : "#2 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_2.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_2.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "152.3359mm",
+      "height" : "236.0002mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 21345,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1NA1W113",
+      "index" : 4,
+      "ordered" : 241665,
+      "description" : "#3 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_3.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_3.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "142.415mm",
+      "height" : "236.0002mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 36300,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1NA1W114",
+      "index" : 5,
+      "ordered" : 220320,
+      "description" : "#4 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_4.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_4.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "153.99mm",
+      "height" : "234mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 0,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1NA1W115",
+      "index" : 6,
+      "ordered" : 223020,
+      "description" : "#5 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_5.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_5.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "143.854mm",
+      "height" : "236.0002mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 54945,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1NA1W116",
+      "index" : 7,
+      "ordered" : 192840,
+      "description" : "#6 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_6.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_6.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "153.2911mm",
+      "height" : "236.0002mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 27480,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1NA1W119",
+      "index" : 10,
+      "ordered" : 211725,
+      "description" : "#9 - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_9.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_9.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "153.8898mm",
+      "height" : "235.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 8595,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11B",
+      "index" : 32,
+      "ordered" : 189390,
+      "description" : "B  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_B.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_B.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "37.2191mm",
+      "height" : "53.0003mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 30930,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11C",
+      "index" : 33,
+      "ordered" : 187695,
+      "description" : "C  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_C.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_C.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "38.815mm",
+      "height" : "52.9996mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 32625,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11E",
+      "index" : 35,
+      "ordered" : 269670,
+      "description" : "E  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_E.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_E.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "30.4959mm",
+      "height" : "60.0001mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 8295,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11F",
+      "index" : 36,
+      "ordered" : 193350,
+      "description" : "F  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_F.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_F.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "30.4955mm",
+      "height" : "53.001mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 26970,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11G",
+      "index" : 37,
+      "ordered" : 201825,
+      "description" : "G  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_G.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_G.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "44.6015mm",
+      "height" : "52.9996mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 18495,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11H",
+      "index" : 38,
+      "ordered" : 232920,
+      "description" : "H  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_H.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_H.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "37.9324mm",
+      "height" : "60.0008mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 45045,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11K",
+      "index" : 41,
+      "ordered" : 174135,
+      "description" : "K  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_K.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_K.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "40.2011mm",
+      "height" : "53.0006mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 46185,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11M",
+      "index" : 43,
+      "ordered" : 234615,
+      "description" : "M  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_M.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_M.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "47.4708mm",
+      "height" : "60.0008mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 43350,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11N",
+      "index" : 44,
+      "ordered" : 240270,
+      "description" : "N  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_N.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_N.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "41.2246mm",
+      "height" : "60.0001mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 37695,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11O",
+      "index" : 45,
+      "ordered" : 236310,
+      "description" : "O  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_O.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_O.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "45.7349mm",
+      "height" : "53.0003mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 41655,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11R",
+      "index" : 48,
+      "ordered" : 258930,
+      "description" : "R  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_R.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_R.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "37.4266mm",
+      "height" : "53.0006mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 19035,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11S",
+      "index" : 49,
+      "ordered" : 262890,
+      "description" : "S  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_S.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_S.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "34.011mm",
+      "height" : "52.9999mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 15075,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11T",
+      "index" : 50,
+      "ordered" : 236310,
+      "description" : "T  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_T.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_T.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "37.4078mm",
+      "height" : "53.0003mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 277965,
+      "overrun" : 41655,
+      "layouts" : [ {
+         "index" : 2,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11U",
+      "index" : 51,
+      "ordered" : 179220,
+      "description" : "U  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_U.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_U.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "39.2733mm",
+      "height" : "53.0006mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 41100,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11W",
+      "index" : 53,
+      "ordered" : 212010,
+      "description" : "W  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_W.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_W.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "62.0867mm",
+      "height" : "53.0006mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 8310,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11Y",
+      "index" : 55,
+      "ordered" : 186000,
+      "description" : "Y  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_Y.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_Y.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "42.8738mm",
+      "height" : "53.0003mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 34320,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   }, {
+      "name" : "1LA1W11Z",
+      "index" : 56,
+      "ordered" : 195045,
+      "description" : "Z  - PL WHITE ADULT 19/20",
+      "die-source" : "FAPL CUT_Z.ai",
+      "die-path" : "//Appdvie15/prepress1/Prepress - Non Paper/HTL/_HTL RAMP UP/_FAPL project/NEW ARTWORK/FAPL CUT_Z.ai",
+      "stock" : "HD",
+      "grade" : "240 gsm",
+      "grain" : "None",
+      "width" : "35.5268mm",
+      "height" : "60.0008mm",
+      "spacing-type" : "Margins",
+      "group" : "1",
+      "priority" : 1,
+      "rotation" : "Any",
+      "templates" : [ ],
+      "placed" : 1,
+      "total" : 220320,
+      "overrun" : 25275,
+      "layouts" : [ {
+         "index" : 1,
+         "placed" : 1
+      } ]
+   } ]
+}
